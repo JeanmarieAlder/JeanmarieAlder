@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeanmarieAlder
-- 👀 I’m interested in web app and mobile development.
+- 👀 I’m interested in web app development, as well as IT project management.
 - 🌱 
 - 📫 Feel free to contact me at jeanmarie.alder@gmail.com
 
